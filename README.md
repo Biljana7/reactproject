@@ -2,7 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-To run project, instal first node.js to project directory
+To run project, instal first node.js in project directory
 ### `npm install`
 
 In the project directory, you can run:
